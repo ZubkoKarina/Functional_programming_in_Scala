@@ -1,1 +1,1 @@
-Functional programming course from Lesy Ukrainka University Ukraine
+Functional programming course from Lesy Ukrainka University Ukraine.
