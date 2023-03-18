@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(65634f8d-4687-4d0f-b6e1-485189dc9b66), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/karina/Документы/Scala_my_rep/lab_15_zubko/target/scala-2.13/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 6 s, completed 18 мар. 2023 г., 15:41:52[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

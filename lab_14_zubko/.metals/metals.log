@@ -74,3 +74,27 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.03.18 15:21:45 INFO  time: compiled lab_14_zubko in 2.07s
 2023.03.18 15:23:02 INFO  compiling lab_14_zubko (1 scala source)
 2023.03.18 15:23:03 INFO  time: compiled lab_14_zubko in 1.67s
+2023.03.18 15:27:22 INFO  Disconnecting from Bloop session...
+2023.03.18 15:27:22 INFO  Shut down connection with build server.
+2023.03.18 15:27:22 INFO  Shut down connection with build server.
+2023.03.18 15:27:22 INFO  Attempting to connect to the build server...
+2023.03.18 15:27:22 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 15:27:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_14_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 15:27:22 INFO  Attempting to connect to the build server...
+2023.03.18 15:27:22 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 15:27:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_14_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 15:27:22 INFO  time: Connected to build server in 80ms
+2023.03.18 15:27:22 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 15:27:23 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 15:27:23 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 15:27:23 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 15:27:23 INFO  time: indexed workspace in 1.61s
+2023.03.18 15:28:02 INFO  
+2023.03.18 15:28:02 INFO  Template applied in /home/karina/Документы/Scala_my_rep/./lab_15_zubko
+2023.03.18 15:28:02 INFO  
+2023.03.18 15:28:03 INFO  time: ran 'giter8.Giter8' in 3.54s
+2023.03.18 15:28:11 INFO  Shutting down server
+2023.03.18 15:28:11 INFO  shutting down Metals
+2023.03.18 15:28:11 INFO  Shut down connection with build server.
+2023.03.18 15:28:11 INFO  Shut down connection with build server.
+2023.03.18 15:28:11 INFO  Exiting server
