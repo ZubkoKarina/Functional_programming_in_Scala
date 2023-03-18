@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Newspaper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Newspaper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Library$$anonfun$getAuthors$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Library$$anonfun$getAuthors$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Magazine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Magazine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LibraryItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/LibraryItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Newspaper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Newspaper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Library$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Library$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Library.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Library.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Magazine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Magazine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Book$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Book$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Library$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Library$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_10-11_zubko/target/scala-2.13/classes/Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

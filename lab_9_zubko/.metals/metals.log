@@ -63,3 +63,9 @@ WARNING: Unmatched cancel notification for request id 18
 2023.03.18 12:28:40 INFO  time: code lens generation in 23s
 2023.03.18 12:28:40 INFO  time: code lens generation in 18s
 2023.03.18 12:28:40 INFO  time: code lens generation in 26s
+2023.03.18 12:43:36 INFO  
+2023.03.18 12:43:36 INFO  Template applied in /home/karina/Документы/Scala_my_rep/./lab_10-11_zubko
+2023.03.18 12:43:36 INFO  
+2023.03.18 12:43:36 INFO  time: ran 'giter8.Giter8' in 2.47s
+2023.03.18 12:43:40 INFO  Shutting down server
+2023.03.18 12:43:40 INFO  shutting down Metals
