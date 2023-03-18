@@ -694,3 +694,12 @@ Exception in thread "pool-14-thread-1" java.lang.InterruptedException
 2023.03.18 14:48:43 INFO  time: compiled lab_13_zubko in 0.83s
 2023.03.18 15:10:31 INFO  compiling lab_13_zubko (1 scala source)
 2023.03.18 15:10:32 INFO  time: compiled lab_13_zubko in 1.2s
+2023.03.18 15:16:35 INFO  
+2023.03.18 15:16:35 INFO  Template applied in /home/karina/Документы/Scala_my_rep/./lab_14_zubko
+2023.03.18 15:16:35 INFO  
+2023.03.18 15:16:35 INFO  time: ran 'giter8.Giter8' in 6.4s
+2023.03.18 15:16:49 INFO  Shutting down server
+2023.03.18 15:16:49 INFO  shutting down Metals
+2023.03.18 15:16:49 INFO  Shut down connection with build server.
+2023.03.18 15:16:49 INFO  Shut down connection with build server.
+2023.03.18 15:16:51 INFO  Exiting server
