@@ -1,0 +1,65 @@
+2023.03.18 12:28:08 INFO  Started: Metals version 0.11.11 in workspace '/home/karina/Документы/Scala_my_rep/lab_9_zubko' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.18 12:28:09 INFO  time: initialize in 1.5s
+2023.03.18 12:28:13 WARN  Build server is not auto-connectable.
+2023.03.18 12:28:13 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_9_zubko/src/main/scala/Main.scala
+мар. 18, 2023 12:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+мар. 18, 2023 12:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.03.18 12:28:14 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_9_zubko/src/main/scala/Main.scala
+2023.03.18 12:28:14 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_9_zubko/src/main/scala/Main.scala
+2023.03.18 12:28:16 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals11730313880093859716/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 12:28:16 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_9_zubko/project/metals.sbt
+2023.03.18 12:28:16 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_9_zubko/project/project/metals.sbt
+2023.03.18 12:28:16 INFO  skipping build import with status 'Started'
+2023.03.18 12:28:21 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: org.scalasbt.ipcsocket.NativeErrorException: [98] Адрес уже используется
+2023.03.18 12:28:21 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.03.18 12:28:21 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.03.18 12:28:21 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.03.18 12:28:21 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.03.18 12:28:21 INFO  sbt thinks that server is already booting because of this exception:
+2023.03.18 12:28:21 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.03.18 12:28:21 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.03.18 12:28:21 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.03.18 12:28:21 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.03.18 12:28:21 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.03.18 12:28:21 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.03.18 12:28:21 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.03.18 12:28:21 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.03.18 12:28:21 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.03.18 12:28:21 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.03.18 12:28:21 ERROR Caused by: java.io.IOException: org.scalasbt.ipcsocket.NativeErrorException: [98] Адрес уже используется
+2023.03.18 12:28:21 ERROR 	at org.scalasbt.ipcsocket.UnixDomainServerSocket.bind(UnixDomainServerSocket.java:140)
+2023.03.18 12:28:21 ERROR 	at org.scalasbt.ipcsocket.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:114)
+2023.03.18 12:28:21 ERROR 	at org.scalasbt.ipcsocket.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+2023.03.18 12:28:21 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.03.18 12:28:21 ERROR 	... 23 more
+2023.03.18 12:28:21 ERROR Caused by: org.scalasbt.ipcsocket.NativeErrorException: [98] Адрес уже используется
+2023.03.18 12:28:21 ERROR 	at org.scalasbt.ipcsocket.JNAUnixDomainSocketLibraryProvider.bind(UnixDomainSocketLibrary.java:178)
+2023.03.18 12:28:21 ERROR 	at org.scalasbt.ipcsocket.UnixDomainServerSocket.bind(UnixDomainServerSocket.java:136)
+2023.03.18 12:28:21 ERROR 	... 26 more
+2023.03.18 12:28:21 INFO  time: ran 'sbt bloopInstall' in 5.36s
+2023.03.18 12:28:21 ERROR sbt command failed: /usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals11730313880093859716/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+мар. 18, 2023 12:28:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2023.03.18 12:28:27 INFO  no build target found for /home/karina/Документы/Scala_my_rep/lab_9_zubko/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.18 12:28:40 INFO  time: code lens generation in 19s
+2023.03.18 12:28:40 INFO  time: code lens generation in 23s
+2023.03.18 12:28:40 INFO  time: code lens generation in 18s
+2023.03.18 12:28:40 INFO  time: code lens generation in 26s
