@@ -4,3 +4,4 @@
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/karina/Документы/Scala_my_rep/lab_6_zubko/target/scala-2.13/classes ...[0m
 [0m[[0m[32msuccess[0m] [0m[0mTotal time: 5 s, completed 18 мар. 2023 г., 12:07:06[0m
 [0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

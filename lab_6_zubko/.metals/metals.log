@@ -155,3 +155,12 @@ WARNING: Unmatched cancel notification for request id 179
 2023.03.18 12:06:55 INFO  compiling lab_6_zubko (1 scala source)
 2023.03.18 12:06:56 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_6_zubko/src/main/scala/Main.scala
 2023.03.18 12:06:55 INFO  time: compiled lab_6_zubko in 0.73s
+2023.03.18 12:10:25 INFO  
+2023.03.18 12:10:25 INFO  Template applied in /home/karina/Документы/Scala_my_rep/./lab_7_zubko
+2023.03.18 12:10:25 INFO  
+2023.03.18 12:10:25 INFO  time: ran 'giter8.Giter8' in 2.74s
+2023.03.18 12:10:29 INFO  Shutting down server
+2023.03.18 12:10:29 INFO  shutting down Metals
+2023.03.18 12:10:29 INFO  Shut down connection with build server.
+2023.03.18 12:10:29 INFO  Shut down connection with build server.
+2023.03.18 12:10:29 INFO  Exiting server
