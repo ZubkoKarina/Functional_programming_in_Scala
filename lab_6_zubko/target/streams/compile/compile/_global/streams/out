@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_6_zubko/src/main/scala/Main.scala:2:29: ';' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.math.powobject Main extends App {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

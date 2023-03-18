@@ -46,3 +46,12 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.03.18 11:58:10 INFO  time: indexed workspace in 8.78s
 2023.03.18 11:58:25 INFO  compiling lab_5_zubko (1 scala source)
 2023.03.18 11:58:25 INFO  time: compiled lab_5_zubko in 0.83s
+2023.03.18 12:00:49 INFO  
+2023.03.18 12:00:49 INFO  Template applied in /home/karina/Документы/Scala_my_rep/./lab_6_zubko
+2023.03.18 12:00:49 INFO  
+2023.03.18 12:00:49 INFO  time: ran 'giter8.Giter8' in 3.76s
+2023.03.18 12:00:56 INFO  Shutting down server
+2023.03.18 12:00:56 INFO  shutting down Metals
+2023.03.18 12:00:56 INFO  Shut down connection with build server.
+2023.03.18 12:00:56 INFO  Shut down connection with build server.
+2023.03.18 12:00:57 INFO  Exiting server
