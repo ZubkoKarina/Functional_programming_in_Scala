@@ -16,7 +16,23 @@
         ],
         "classpath": [
             "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar",
-            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/2.1.1/scala-parser-combinators_2.13-2.1.1.jar"
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/2.1.1/scala-parser-combinators_2.13-2.1.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalafx/scalafx_2.13/18.0.1-R28/scalafx_2.13-18.0.1-R28.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-controls/18.0.1/javafx-controls-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-fxml/18.0.1/javafx-fxml-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-media/18.0.1/javafx-media-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-swing/18.0.1/javafx-swing-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-web/18.0.1/javafx-web-18.0.1.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1-linux.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-controls/18.0.1/javafx-controls-18.0.1-linux.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-fxml/18.0.1/javafx-fxml-18.0.1-linux.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1-linux.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-media/18.0.1/javafx-media-18.0.1-linux.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-swing/18.0.1/javafx-swing-18.0.1-linux.jar",
+            "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-web/18.0.1/javafx-web-18.0.1-linux.jar"
         ],
         "out": "/home/karina/Документы/Scala_my_rep/lab_13_zubko/.bloop/lab_13_zubko",
         "classesDir": "/home/karina/Документы/Scala_my_rep/lab_13_zubko/.bloop/lab_13_zubko/scala-2.13/classes",
@@ -146,6 +162,159 @@
                             "name": "scala-parser-combinators_2.13",
                             "classifier": "sources",
                             "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/2.1.1/scala-parser-combinators_2.13-2.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scalafx",
+                    "name": "scalafx_2.13",
+                    "version": "18.0.1-R28",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalafx_2.13",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalafx/scalafx_2.13/18.0.1-R28/scalafx_2.13-18.0.1-R28.jar"
+                        },
+                        {
+                            "name": "scalafx_2.13",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalafx/scalafx_2.13/18.0.1-R28/scalafx_2.13-18.0.1-R28-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-reflect",
+                    "version": "2.13.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-reflect",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar"
+                        },
+                        {
+                            "name": "scala-reflect",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-base",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-base",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-base",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-controls",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-controls",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-controls/18.0.1/javafx-controls-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-controls",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-controls/18.0.1/javafx-controls-18.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-fxml",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-fxml",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-fxml/18.0.1/javafx-fxml-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-fxml",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-fxml/18.0.1/javafx-fxml-18.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-graphics",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-graphics",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-graphics",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-media",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-media",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-media/18.0.1/javafx-media-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-media",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-media/18.0.1/javafx-media-18.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-swing",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-swing",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-swing/18.0.1/javafx-swing-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-swing",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-swing/18.0.1/javafx-swing-18.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-web",
+                    "version": "18.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-web",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-web/18.0.1/javafx-web-18.0.1.jar"
+                        },
+                        {
+                            "name": "javafx-web",
+                            "classifier": "sources",
+                            "path": "/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/org/openjfx/javafx-web/18.0.1/javafx-web-18.0.1-sources.jar"
                         }
                     ]
                 },

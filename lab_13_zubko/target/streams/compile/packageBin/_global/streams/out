@@ -1,11 +1,1 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TrafficLightSimulation$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes/TrafficLightSimulation$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TrafficLightSimulation$TrafficLightColor$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes/TrafficLightSimulation$TrafficLightColor$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TrafficLightSimulation$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes/TrafficLightSimulation$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TrafficLightSimulation.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes/TrafficLightSimulation.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/hello-world_2.13-1.0.jar[0m

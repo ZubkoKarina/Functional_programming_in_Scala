@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(06953477-7235-4908-bf77-ef375fdf5a19), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:1:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.application.JFXApp3[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:2:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.Scene[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:3:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.paint.Color._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:4:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.shape.Circle[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:5:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.animation._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:6:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.util.Duration[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:8:39: not found: type JFXApp3[0m
+[0m[[0m[31merror[0m] [0m[0mobject TrafficLightSimulation extends JFXApp3 {[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:10:26: not found: value Duration[0m
+[0m[[0m[31merror[0m] [0m[0m  private val duration = Duration(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:13:5: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m    stage = new JFXApp3.PrimaryStage {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed 18 мар. 2023 г., 13:49:20[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

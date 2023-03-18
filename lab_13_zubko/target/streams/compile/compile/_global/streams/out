@@ -1,4 +1,19 @@
-[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:11:24: not found: value prevColor[0m
-[0m[[0m[31merror[0m] [0m[0m    case Yellow => if (prevColor == Green) Red else Green[0m
-[0m[[0m[31merror[0m] [0m[0m                       ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:42:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:49:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 1) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:56:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 2) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:63:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 3) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:73:25: unknown parameter name: keyValues[0m
+[0m[[0m[31merror[0m] [0m[0m              keyValues = keyValues.toSet[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:71:13: too many arguments (found 2, expected 1) for constructor KeyFrame: (delegate: javafx.animation.KeyFrame): scalafx.animation.KeyFrame[0m
+[0m[[0m[31merror[0m] [0m[0m            new KeyFrame([0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

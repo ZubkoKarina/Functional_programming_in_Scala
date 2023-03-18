@@ -74,3 +74,623 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.03.18 13:39:27 INFO  time: compiled lab_13_zubko in 0.82s
 2023.03.18 13:43:39 INFO  compiling lab_13_zubko (1 scala source)
 2023.03.18 13:43:39 INFO  time: compiled lab_13_zubko in 0.8s
+2023.03.18 13:48:34 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:48:34 INFO  time: compiled lab_13_zubko in 0.12s
+2023.03.18 13:48:34 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:48:43 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:48:50 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:48:51 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5290328108978653836/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 13:48:51 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:48:52 INFO  time: code lens generation in 3.21s
+2023.03.18 13:48:52 INFO  time: code lens generation in 6.6s
+2023.03.18 13:48:52 INFO  time: code lens generation in 4.26s
+2023.03.18 13:48:53 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 13:48:53 INFO  [info] loading settings for project lab_13_zubko-build-build from metals.sbt ...
+2023.03.18 13:48:56 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/project
+2023.03.18 13:48:57 INFO  [info] loading settings for project lab_13_zubko-build from metals.sbt ...
+2023.03.18 13:48:57 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project
+2023.03.18 13:48:59 INFO  [success] Generated .bloop/lab_13_zubko-build.json
+2023.03.18 13:48:59 INFO  [success] Total time: 2 s, completed 18 мар. 2023 г., 13:49:00
+2023.03.18 13:49:02 INFO  [info] loading settings for project lab_13_zubko from build.sbt ...
+2023.03.18 13:49:02 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_13_zubko/)
+2023.03.18 13:49:05 INFO  [success] Generated .bloop/lab_13_zubko-test.json
+2023.03.18 13:49:05 INFO  [success] Generated .bloop/lab_13_zubko.json
+2023.03.18 13:49:05 INFO  [success] Total time: 2 s, completed 18 мар. 2023 г., 13:49:05
+2023.03.18 13:49:05 INFO  time: ran 'sbt bloopInstall' in 13s
+2023.03.18 13:49:05 INFO  Disconnecting from Bloop session...
+2023.03.18 13:49:05 INFO  Shut down connection with build server.
+2023.03.18 13:49:05 INFO  Shut down connection with build server.
+2023.03.18 13:49:05 INFO  Attempting to connect to the build server...
+2023.03.18 13:49:05 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 13:49:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 13:49:05 INFO  Attempting to connect to the build server...
+2023.03.18 13:49:05 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 13:49:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 13:49:05 INFO  time: Connected to build server in 0.2s
+2023.03.18 13:49:05 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 13:49:07 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:49:07 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:49:07 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:49:07 INFO  time: indexed workspace in 2.54s
+2023.03.18 13:49:09 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:49:10 INFO  time: compiled lab_13_zubko in 1.45s
+2023.03.18 13:49:11 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:11 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:49:11 INFO  time: compiled lab_13_zubko in 93ms
+2023.03.18 13:49:12 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:13 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:13 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:14 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:16 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:49:16 INFO  time: compiled lab_13_zubko in 0.26s
+2023.03.18 13:49:16 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:32 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:49:50 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals4693945771028971473/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 13:49:53 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 13:49:54 INFO  [info] loading settings for project lab_13_zubko-build-build from metals.sbt ...
+2023.03.18 13:49:55 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/project
+2023.03.18 13:49:57 INFO  [info] loading settings for project lab_13_zubko-build from metals.sbt ...
+2023.03.18 13:49:57 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project
+2023.03.18 13:49:59 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:50:02 INFO  [success] Generated .bloop/lab_13_zubko-build.json
+2023.03.18 13:50:02 INFO  [success] Total time: 4 s, completed 18 мар. 2023 г., 13:50:02
+2023.03.18 13:50:02 INFO  [info] loading settings for project lab_13_zubko from build.sbt ...
+2023.03.18 13:50:03 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_13_zubko/)
+2023.03.18 13:50:04 INFO  [success] Generated .bloop/lab_13_zubko-test.json
+2023.03.18 13:50:04 INFO  [success] Generated .bloop/lab_13_zubko.json
+2023.03.18 13:50:04 INFO  [success] Total time: 1 s, completed 18 мар. 2023 г., 13:50:04
+2023.03.18 13:50:04 INFO  time: ran 'sbt bloopInstall' in 14s
+2023.03.18 13:50:04 INFO  Disconnecting from Bloop session...
+2023.03.18 13:50:04 INFO  Shut down connection with build server.
+2023.03.18 13:50:04 INFO  Shut down connection with build server.
+2023.03.18 13:50:04 INFO  Attempting to connect to the build server...
+2023.03.18 13:50:04 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 13:50:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 13:50:05 INFO  Attempting to connect to the build server...
+2023.03.18 13:50:05 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 13:50:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 13:50:04 INFO  time: Connected to build server in 0.16s
+2023.03.18 13:50:04 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 13:50:06 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:50:06 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:50:06 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:50:06 INFO  time: indexed workspace in 1.62s
+2023.03.18 13:50:06 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:50:06 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:50:08 INFO  time: compiled lab_13_zubko in 1.42s
+2023.03.18 13:50:08 INFO  skipping build import with status 'Installed'
+2023.03.18 13:50:09 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:50:09 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:50:10 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:50:10 INFO  time: compiled lab_13_zubko in 0.2s
+2023.03.18 13:50:10 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:50:38 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:50:58 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:52:07 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:52:20 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:52:23 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:54:53 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+мар. 18, 2023 1:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 353
+мар. 18, 2023 1:54:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.03.18 13:55:00 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:58:28 INFO  skipping build import with status 'Installed'
+2023.03.18 13:58:29 INFO  skipping build import with status 'Installed'
+2023.03.18 13:58:29 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:58:47 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:58:49 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:59:02 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:59:27 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals10869843267994544881/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 13:59:28 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 13:59:28 INFO  [info] loading settings for project lab_13_zubko-build-build from metals.sbt ...
+2023.03.18 13:59:30 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/project
+2023.03.18 13:59:32 INFO  [info] loading settings for project lab_13_zubko-build from metals.sbt ...
+2023.03.18 13:59:32 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project
+2023.03.18 13:59:35 INFO  [success] Generated .bloop/lab_13_zubko-build.json
+2023.03.18 13:59:35 INFO  [success] Total time: 3 s, completed 18 мар. 2023 г., 13:59:35
+2023.03.18 13:59:35 INFO  [info] loading settings for project lab_13_zubko from build.sbt ...
+2023.03.18 13:59:35 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_13_zubko/)
+2023.03.18 13:59:36 INFO  [success] Generated .bloop/lab_13_zubko.json
+2023.03.18 13:59:36 INFO  [success] Generated .bloop/lab_13_zubko-test.json
+2023.03.18 13:59:36 INFO  [success] Total time: 0 s, completed 18 мар. 2023 г., 13:59:37
+2023.03.18 13:59:37 INFO  time: ran 'sbt bloopInstall' in 9.91s
+2023.03.18 13:59:37 INFO  Disconnecting from Bloop session...
+2023.03.18 13:59:37 INFO  Shut down connection with build server.
+2023.03.18 13:59:37 INFO  Shut down connection with build server.
+2023.03.18 13:59:37 INFO  Attempting to connect to the build server...
+2023.03.18 13:59:37 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 13:59:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 13:59:37 INFO  Attempting to connect to the build server...
+2023.03.18 13:59:37 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 13:59:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 13:59:37 INFO  time: Connected to build server in 0.1s
+2023.03.18 13:59:37 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 13:59:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:59:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:59:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 13:59:38 INFO  time: indexed workspace in 1.39s
+2023.03.18 13:59:38 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 13:59:39 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 13:59:40 INFO  time: compiled lab_13_zubko in 1.43s
+2023.03.18 13:59:40 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:00:16 INFO  Shutting down server
+2023.03.18 14:00:16 INFO  shutting down Metals
+2023.03.18 14:00:16 INFO  Shut down connection with build server.
+2023.03.18 14:00:16 INFO  Shut down connection with build server.
+2023.03.18 14:00:16 INFO  Exiting server
+2023.03.18 14:00:33 INFO  Started: Metals version 0.11.11 in workspace '/home/karina/Документы/Scala_my_rep/lab_13_zubko' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.18 14:00:34 INFO  time: initialize in 1.17s
+2023.03.18 14:00:36 INFO  Attempting to connect to the build server...
+2023.03.18 14:00:36 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:00:36 INFO  skipping build import with status 'Installed'
+2023.03.18 14:00:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:00:36 INFO  Attempting to connect to the build server...
+2023.03.18 14:00:36 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:00:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:00:37 INFO  time: Connected to build server in 0.63s
+2023.03.18 14:00:37 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 14:00:40 INFO  no build target found for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.18 14:00:40 INFO  time: code lens generation in 3.68s
+2023.03.18 14:00:42 INFO  no build target found for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.18 14:00:46 INFO  time: code lens generation in 9.38s
+2023.03.18 14:00:50 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:00:50 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:00:50 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:00:51 INFO  time: indexed workspace in 10s
+2023.03.18 14:00:51 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:00:53 INFO  time: compiled lab_13_zubko in 2.47s
+2023.03.18 14:00:53 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:00:53 INFO  time: compiled lab_13_zubko in 0.2s
+2023.03.18 14:01:04 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:01:42 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:30 INFO  skipping build import with status 'Installed'
+2023.03.18 14:03:36 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:36 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:36 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:38 WARN  Using indexes to guess the definition of Unit
+2023.03.18 14:03:39 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:39 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:39 WARN  Using indexes to guess the definition of Unit
+2023.03.18 14:03:41 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals16405600431802778670/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 14:03:42 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 14:03:42 INFO  [info] loading settings for project lab_13_zubko-build-build from metals.sbt ...
+2023.03.18 14:03:43 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:03:44 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/project
+2023.03.18 14:03:47 INFO  [info] loading settings for project lab_13_zubko-build from metals.sbt ...
+2023.03.18 14:03:47 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project
+2023.03.18 14:03:50 INFO  [success] Generated .bloop/lab_13_zubko-build.json
+2023.03.18 14:03:50 INFO  [success] Total time: 3 s, completed 18 мар. 2023 г., 14:03:50
+2023.03.18 14:03:50 INFO  [info] loading settings for project lab_13_zubko from build.sbt ...
+2023.03.18 14:03:51 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_13_zubko/)
+2023.03.18 14:03:51 INFO  [success] Generated .bloop/lab_13_zubko.json
+2023.03.18 14:03:51 INFO  [success] Generated .bloop/lab_13_zubko-test.json
+2023.03.18 14:03:51 INFO  [success] Total time: 0 s, completed 18 мар. 2023 г., 14:03:52
+2023.03.18 14:03:52 INFO  time: ran 'sbt bloopInstall' in 11s
+2023.03.18 14:03:52 INFO  Disconnecting from Bloop session...
+2023.03.18 14:03:52 INFO  Shut down connection with build server.
+2023.03.18 14:03:52 INFO  Shut down connection with build server.
+2023.03.18 14:03:52 INFO  Attempting to connect to the build server...
+2023.03.18 14:03:52 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:03:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:03:52 INFO  Attempting to connect to the build server...
+2023.03.18 14:03:52 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:03:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:03:52 INFO  time: Connected to build server in 0.15s
+2023.03.18 14:03:52 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 14:03:54 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:03:54 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:03:54 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:03:54 INFO  time: indexed workspace in 1.8s
+2023.03.18 14:03:54 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:03:56 INFO  time: compiled lab_13_zubko in 1.49s
+2023.03.18 14:03:56 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:04:18 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:05:12 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:05:14 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8323977303794524410/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 14:05:14 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:05:18 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 14:05:18 INFO  [info] loading settings for project lab_13_zubko-build-build from metals.sbt ...
+2023.03.18 14:05:19 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/project
+2023.03.18 14:05:22 INFO  [info] loading settings for project lab_13_zubko-build from metals.sbt ...
+2023.03.18 14:05:22 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project
+2023.03.18 14:05:25 INFO  [success] Generated .bloop/lab_13_zubko-build.json
+2023.03.18 14:05:25 INFO  [success] Total time: 3 s, completed 18 мар. 2023 г., 14:05:25
+2023.03.18 14:05:28 INFO  [info] loading settings for project lab_13_zubko from build.sbt ...
+2023.03.18 14:05:28 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_13_zubko/)
+2023.03.18 14:05:41 INFO  [success] Generated .bloop/lab_13_zubko.json
+2023.03.18 14:05:41 INFO  [success] Generated .bloop/lab_13_zubko-test.json
+2023.03.18 14:05:41 INFO  [success] Total time: 13 s, completed 18 мар. 2023 г., 14:05:41
+2023.03.18 14:05:42 INFO  time: ran 'sbt bloopInstall' in 27s
+2023.03.18 14:05:42 INFO  Disconnecting from Bloop session...
+2023.03.18 14:05:42 INFO  Shut down connection with build server.
+2023.03.18 14:05:42 INFO  Shut down connection with build server.
+2023.03.18 14:05:42 INFO  Attempting to connect to the build server...
+2023.03.18 14:05:42 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:05:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:05:42 INFO  Attempting to connect to the build server...
+2023.03.18 14:05:42 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:05:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:05:42 INFO  time: Connected to build server in 0.17s
+2023.03.18 14:05:42 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 14:05:43 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:05:43 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:05:43 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:05:43 INFO  time: indexed workspace in 1.75s
+2023.03.18 14:05:44 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:05:45 INFO  time: compiled lab_13_zubko in 1.23s
+2023.03.18 14:05:51 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:05:56 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:19 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:20 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:21 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:21 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:22 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:06:22 INFO  time: compiled lab_13_zubko in 0.29s
+2023.03.18 14:06:23 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:27 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:06:27 INFO  time: compiled lab_13_zubko in 0.19s
+2023.03.18 14:06:28 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:43 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:06:58 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:07:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:02 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:03 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:08:03 INFO  time: compiled lab_13_zubko in 0.2s
+2023.03.18 14:08:04 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:09 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:09 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:10 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:08:10 INFO  time: compiled lab_13_zubko in 0.16s
+2023.03.18 14:08:11 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:21 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:23 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:24 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:08:24 INFO  time: compiled lab_13_zubko in 0.24s
+2023.03.18 14:08:25 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:26 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:26 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:28 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:29 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:08:29 INFO  time: compiled lab_13_zubko in 0.19s
+2023.03.18 14:08:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:39 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+мар. 18, 2023 2:08:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 195
+2023.03.18 14:08:41 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:41 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:41 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:44 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:08:44 INFO  time: compiled lab_13_zubko in 72ms
+2023.03.18 14:08:46 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:08:46 INFO  time: code lens generation in 1.29s
+2023.03.18 14:09:42 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:09:45 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:09:46 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:09:46 INFO  time: compiled lab_13_zubko in 58ms
+2023.03.18 14:09:46 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:09:58 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:09:59 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:09:59 INFO  time: compiled lab_13_zubko in 63ms
+2023.03.18 14:09:59 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:03 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:10:03 INFO  time: compiled lab_13_zubko in 54ms
+2023.03.18 14:10:03 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:06 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:07 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:10:07 INFO  time: compiled lab_13_zubko in 82ms
+2023.03.18 14:10:07 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:26 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:28 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:29 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:29 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:31 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:10:31 INFO  time: compiled lab_13_zubko in 60ms
+2023.03.18 14:10:32 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:32 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:34 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:10:34 INFO  time: compiled lab_13_zubko in 55ms
+2023.03.18 14:10:34 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:35 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:36 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:10:36 INFO  time: compiled lab_13_zubko in 0.17s
+2023.03.18 14:10:36 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:10:37 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:10:37 INFO  time: compiled lab_13_zubko in 0.15s
+2023.03.18 14:10:37 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:00 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:02 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:02 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:03 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:03 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:04 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:05 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:11:05 INFO  time: compiled lab_13_zubko in 56ms
+2023.03.18 14:11:05 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:18 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:23 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:24 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:11:24 INFO  time: compiled lab_13_zubko in 0.2s
+2023.03.18 14:11:25 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:25 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:27 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:11:27 INFO  time: compiled lab_13_zubko in 0.27s
+2023.03.18 14:11:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:31 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:32 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:11:32 INFO  time: compiled lab_13_zubko in 0.15s
+2023.03.18 14:11:33 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:33 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:34 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:34 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:11:35 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:11:35 INFO  time: compiled lab_13_zubko in 0.21s
+2023.03.18 14:11:35 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+мар. 18, 2023 2:11:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: jar%3Afile%3A%2F%2F%2Fhome%2Fkarina%2F.cache%2Fcoursier%2Fv1%2Fhttps%2Frepo1.maven.org%2Fmaven2%2Forg%2Fscalafx%2Fscalafx_2.13%2F19.0.0-R30%2Fscalafx_2.13-19.0.0-R30-sources.jar%21%2Fscalafx%2Fscene%2FNode.scala:30: error: } expected but identifier found
+import javafx.scene.{effect as jfxse, input as jfxsi, layout as jfxsl, transform as jfxst}
+                            ^
+jar%3Afile%3A%2F%2F%2Fhome%2Fkarina%2F.cache%2Fcoursier%2Fv1%2Fhttps%2Frepo1.maven.org%2Fmaven2%2Forg%2Fscalafx%2Fscalafx_2.13%2F19.0.0-R30%2Fscalafx_2.13-19.0.0-R30-sources.jar%21%2Fscalafx%2Fscene%2FNode.scala:30: error: } expected but identifier found
+import javafx.scene.{effect as jfxse, input as jfxsi, layout as jfxsl, transform as jfxst}
+                            ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:400)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:404)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$inBracesAfterOpen(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.importees(ScalametaParser.scala:3287)
+	at scala.meta.internal.parsers.ScalametaParser.dotselectors$1(ScalametaParser.scala:3259)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importer$1(ScalametaParser.scala:3263)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.importer(ScalametaParser.scala:3252)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$2(ScalametaParser.scala:3249)
+	at scala.meta.internal.parsers.ScalametaParser.iter$1(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1(ScalametaParser.scala:619)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1$adapted(ScalametaParser.scala:606)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:541)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:606)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:623)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$1(ScalametaParser.scala:3249)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.importStmt(ScalametaParser.scala:3247)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4278)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4263)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:4474)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:382)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$11(ScalametaParser.scala:4474)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4474)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4431)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4424)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4424)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:126)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:48)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:126)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:206)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:54)
+
+мар. 18, 2023 2:11:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: jar%3Afile%3A%2F%2F%2Fhome%2Fkarina%2F.cache%2Fcoursier%2Fv1%2Fhttps%2Frepo1.maven.org%2Fmaven2%2Forg%2Fscalafx%2Fscalafx_2.13%2F19.0.0-R30%2Fscalafx_2.13-19.0.0-R30-sources.jar%21%2Fscalafx%2Fscene%2FNode.scala:30: error: } expected but identifier found
+import javafx.scene.{effect as jfxse, input as jfxsi, layout as jfxsl, transform as jfxst}
+                            ^
+jar%3Afile%3A%2F%2F%2Fhome%2Fkarina%2F.cache%2Fcoursier%2Fv1%2Fhttps%2Frepo1.maven.org%2Fmaven2%2Forg%2Fscalafx%2Fscalafx_2.13%2F19.0.0-R30%2Fscalafx_2.13-19.0.0-R30-sources.jar%21%2Fscalafx%2Fscene%2FNode.scala:30: error: } expected but identifier found
+import javafx.scene.{effect as jfxse, input as jfxsi, layout as jfxsl, transform as jfxst}
+                            ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:400)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:404)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$inBracesAfterOpen(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.importees(ScalametaParser.scala:3287)
+	at scala.meta.internal.parsers.ScalametaParser.dotselectors$1(ScalametaParser.scala:3259)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importer$1(ScalametaParser.scala:3263)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.importer(ScalametaParser.scala:3252)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$2(ScalametaParser.scala:3249)
+	at scala.meta.internal.parsers.ScalametaParser.iter$1(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1(ScalametaParser.scala:619)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1$adapted(ScalametaParser.scala:606)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:541)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:606)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:623)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$importStmt$1(ScalametaParser.scala:3249)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.importStmt(ScalametaParser.scala:3247)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4278)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4263)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:4474)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:382)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$11(ScalametaParser.scala:4474)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4474)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4431)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4424)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4424)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:126)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:48)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:126)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:206)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:54)
+
+2023.03.18 14:11:58 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:12:12 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:12:38 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:22 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:27 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:29 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:14:29 INFO  time: compiled lab_13_zubko in 0.32s
+2023.03.18 14:14:30 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:31 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:32 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:33 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:14:33 INFO  time: compiled lab_13_zubko in 0.22s
+2023.03.18 14:14:33 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:36 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:14:36 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:14:36 INFO  time: compiled lab_13_zubko in 0.17s
+2023.03.18 14:14:37 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:15:45 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:15:45 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:15:45 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:16:37 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:24:48 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:24:50 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:24:51 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:24:51 INFO  time: compiled lab_13_zubko in 0.17s
+2023.03.18 14:24:51 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:25:02 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:25:04 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:25:05 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:25:05 INFO  time: compiled lab_13_zubko in 0.23s
+2023.03.18 14:25:05 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:27:18 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:30:54 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:30:55 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:30:55 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:30:55 INFO  time: compiled lab_13_zubko in 0.15s
+2023.03.18 14:30:56 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:31:21 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:31:54 INFO  skipping build import with status 'Installed'
+2023.03.18 14:31:54 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:31:54 INFO  time: compiled lab_13_zubko in 0.25s
+2023.03.18 14:31:55 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:33:50 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:33:54 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:33:55 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:33:55 INFO  time: compiled lab_13_zubko in 0.19s
+2023.03.18 14:33:56 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:00 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:00 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:01 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:03 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:34:03 INFO  time: compiled lab_13_zubko in 0.12s
+2023.03.18 14:34:04 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:04 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:34:05 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:34:05 INFO  time: compiled lab_13_zubko in 0.13s
+2023.03.18 14:34:07 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:37:10 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:37:10 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:37:10 INFO  time: compiled lab_13_zubko in 0.15s
+2023.03.18 14:37:11 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:37:24 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:38:02 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:38:28 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:39:59 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:41:40 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:41:42 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals11651160624961502810/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 14:41:42 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:41:44 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 14:41:46 INFO  [info] loading settings for project lab_13_zubko-build-build from metals.sbt ...
+2023.03.18 14:41:47 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/project
+2023.03.18 14:41:49 INFO  [info] loading settings for project lab_13_zubko-build from metals.sbt ...
+2023.03.18 14:41:49 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_13_zubko/project
+2023.03.18 14:41:52 INFO  [success] Generated .bloop/lab_13_zubko-build.json
+2023.03.18 14:41:52 INFO  [success] Total time: 3 s, completed 18 мар. 2023 г., 14:41:52
+2023.03.18 14:41:55 INFO  [info] loading settings for project lab_13_zubko from build.sbt ...
+2023.03.18 14:41:55 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_13_zubko/)
+2023.03.18 14:42:07 INFO  [success] Generated .bloop/lab_13_zubko.json
+2023.03.18 14:42:07 INFO  [success] Generated .bloop/lab_13_zubko-test.json
+2023.03.18 14:42:07 INFO  [success] Total time: 11 s, completed 18 мар. 2023 г., 14:42:07
+2023.03.18 14:42:07 INFO  time: ran 'sbt bloopInstall' in 25s
+2023.03.18 14:42:07 INFO  Disconnecting from Bloop session...
+2023.03.18 14:42:07 INFO  Shut down connection with build server.
+2023.03.18 14:42:07 INFO  Shut down connection with build server.
+2023.03.18 14:42:07 INFO  Attempting to connect to the build server...
+2023.03.18 14:42:07 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:42:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:42:07 INFO  Attempting to connect to the build server...
+2023.03.18 14:42:07 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 14:42:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_13_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 14:42:07 INFO  time: Connected to build server in 0.15s
+2023.03.18 14:42:07 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 14:42:09 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:42:09 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:42:09 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 14:42:09 INFO  time: indexed workspace in 1.68s
+2023.03.18 14:45:32 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:45:32 INFO  time: compiled lab_13_zubko in 0.12s
+2023.03.18 14:46:50 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+Exception in thread "pool-14-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.03.18 14:46:51 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:46:58 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:46:58 WARN  Could not load snapshot text for /home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala
+2023.03.18 14:47:53 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:47:53 INFO  time: compiled lab_13_zubko in 0.98s
+2023.03.18 14:48:41 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:48:42 INFO  time: compiled lab_13_zubko in 1.46s
+2023.03.18 14:48:43 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 14:48:43 INFO  time: compiled lab_13_zubko in 0.83s
+2023.03.18 15:10:31 INFO  compiling lab_13_zubko (1 scala source)
+2023.03.18 15:10:32 INFO  time: compiled lab_13_zubko in 1.2s

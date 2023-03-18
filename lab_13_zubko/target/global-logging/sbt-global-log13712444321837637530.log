@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(38f4bf80-046d-4a32-88d3-f241d3c7bb71), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:42:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:49:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 1) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:56:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 2) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:63:13: not found: value at[0m
+[0m[[0m[31merror[0m] [0m[0m            at(duration * 3) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 18 мар. 2023 г., 14:11:42[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,63 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(297cd17d-2d78-400f-adab-80a5f889ead2), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/karina/Документы/Scala_my_rep/lab_13_zubko/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:13:5: Symbol 'type javafx.event.EventTarget' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'class scalafx.stage.Window'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that type EventTarget is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'Window.class' was compiled against an incompatible version of javafx.event.[0m
+[0m[[0m[31merror[0m] [0m[0m    stage = new JFXApp3.PrimaryStage {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:15:19: Symbol 'term javafx.css' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'trait scalafx.css.Styleable'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that term css is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'Styleable.class' was compiled against an incompatible version of javafx.[0m
+[0m[[0m[31merror[0m] [0m[0m      scene = new Scene(200, 400) {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:2:8: Symbol 'term javafx.scene' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'class scalafx.scene.Scene'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that term scene is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'Scene.class' was compiled against an incompatible version of javafx.[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.Scene[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:4:8: Symbol 'type javafx.scene.shape.Circle' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'class scalafx.scene.shape.Circle'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that type Circle is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'Circle.class' was compiled against an incompatible version of javafx.scene.shape.[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.shape.Circle[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:40:28: Symbol 'type javafx.animation.Timeline' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'class scalafx.animation.Timeline'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that type Timeline is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'Timeline.class' was compiled against an incompatible version of javafx.animation.[0m
+[0m[[0m[31merror[0m] [0m[0m        val timeline = new Timeline {[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:42:23: Symbol 'type javafx.animation.KeyFrame' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'class scalafx.animation.KeyFrame'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that type KeyFrame is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'KeyFrame.class' was compiled against an incompatible version of javafx.animation.[0m
+[0m[[0m[31merror[0m] [0m[0m          keyFrames = Seq([0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:6:8: Symbol 'term javafx.util' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'class scalafx.util.Duration'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that term util is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'Duration.class' was compiled against an incompatible version of javafx.[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.util.Duration[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:44:15: value values_= is not a member of scalafx.animation.KeyFrame[0m
+[0m[[0m[31merror[0m] [0m[0m              values = Seq([0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:51:15: value values_= is not a member of scalafx.animation.KeyFrame[0m
+[0m[[0m[31merror[0m] [0m[0m              values = Seq([0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:58:15: value values_= is not a member of scalafx.animation.KeyFrame[0m
+[0m[[0m[31merror[0m] [0m[0m              values = Seq([0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:65:15: value values_= is not a member of scalafx.animation.KeyFrame[0m
+[0m[[0m[31merror[0m] [0m[0m              values = Seq([0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m11 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 18 мар. 2023 г., 13:59:55[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

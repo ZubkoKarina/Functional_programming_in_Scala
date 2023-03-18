@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mjava.lang.RuntimeException: No toolkit found[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.tk.Toolkit.getToolkit(Toolkit.java:278)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:291)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:163)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.LauncherImpl.startToolkit(LauncherImpl.java:659)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:679)[0m
+[0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication$2(LauncherImpl.java:196)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:833)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) No toolkit found[0m
