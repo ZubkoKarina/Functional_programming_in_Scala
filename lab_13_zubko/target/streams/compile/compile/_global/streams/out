@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/karina/Документы/Scala_my_rep/lab_13_zubko/src/main/scala/Main.scala:11:24: not found: value prevColor[0m
+[0m[[0m[31merror[0m] [0m[0m    case Yellow => if (prevColor == Green) Red else Green[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
