@@ -1,0 +1,56 @@
+2023.03.18 11:51:15 INFO  Started: Metals version 0.11.11 in workspace '/home/karina/Документы/Scala_my_rep/lab_4_zubko' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/karina/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.18 11:51:16 INFO  time: initialize in 1.44s
+2023.03.18 11:51:19 WARN  Build server is not auto-connectable.
+2023.03.18 11:51:19 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_4_zubko/src/main/scala/Main.scala
+мар. 18, 2023 11:51:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+мар. 18, 2023 11:51:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+мар. 18, 2023 11:51:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+мар. 18, 2023 11:51:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.03.18 11:51:20 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_4_zubko/src/main/scala/Main.scala
+2023.03.18 11:51:22 INFO  running '/usr/lib/jvm/java-17-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals13457596589852049304/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.03.18 11:51:22 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_4_zubko/project/metals.sbt
+2023.03.18 11:51:22 INFO  skipping build import with status 'Started'
+2023.03.18 11:51:23 INFO  no build target found for /home/karina/Документы/Scala_my_rep/lab_4_zubko/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.18 11:51:25 INFO  [info] welcome to sbt 1.8.2 (Private Build Java 17.0.6)
+2023.03.18 11:51:29 INFO  time: code lens generation in 6.63s
+2023.03.18 11:51:29 INFO  time: code lens generation in 9.27s
+2023.03.18 11:51:29 INFO  time: code lens generation in 9.38s
+2023.03.18 11:51:31 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_4_zubko/src/main/scala/Main.scala
+2023.03.18 11:51:31 INFO  [info] loading settings for project lab_4_zubko-build-build from metals.sbt ...
+2023.03.18 11:51:33 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_4_zubko/project/project
+2023.03.18 11:51:35 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_4_zubko/src/main/scala/Main.scala
+2023.03.18 11:51:36 INFO  [info] loading settings for project lab_4_zubko-build from metals.sbt ...
+2023.03.18 11:51:36 INFO  [info] loading project definition from /home/karina/Документы/Scala_my_rep/lab_4_zubko/project
+2023.03.18 11:51:37 WARN  no build target for: /home/karina/Документы/Scala_my_rep/lab_4_zubko/src/main/scala/Main.scala
+2023.03.18 11:51:39 INFO  [success] Generated .bloop/lab_4_zubko-build.json
+2023.03.18 11:51:39 INFO  [success] Total time: 3 s, completed 18 мар. 2023 г., 11:51:39
+2023.03.18 11:51:42 INFO  [info] loading settings for project lab_4_zubko from build.sbt ...
+2023.03.18 11:51:42 INFO  [info] set current project to hello-world (in build file:/home/karina/Документы/Scala_my_rep/lab_4_zubko/)
+2023.03.18 11:51:42 INFO  [success] Generated .bloop/lab_4_zubko.json
+2023.03.18 11:51:42 INFO  [success] Generated .bloop/lab_4_zubko-test.json
+2023.03.18 11:51:43 INFO  [success] Total time: 0 s, completed 18 мар. 2023 г., 11:51:43
+2023.03.18 11:51:43 INFO  time: ran 'sbt bloopInstall' in 21s
+2023.03.18 11:51:43 INFO  Attempting to connect to the build server...
+2023.03.18 11:51:43 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 11:51:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_4_zubko/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 11:51:43 INFO  Attempting to connect to the build server...
+2023.03.18 11:51:43 INFO  Bloop uses /usr/lib/jvm/java-17-openjdk-amd64 defined at /home/karina/.bloop/bloop.json
+2023.03.18 11:51:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karina/Документы/Scala_my_rep/lab_4_zubko/project/.metals/bsp.trace.json or /home/karina/.cache/metals/bsp.trace.json
+2023.03.18 11:51:43 INFO  time: Connected to build server in 0.33s
+2023.03.18 11:51:44 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.18 11:51:46 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 11:51:48 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 11:51:48 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.18 11:51:48 INFO  time: indexed workspace in 4.4s
+2023.03.18 11:51:48 INFO  compiling lab_4_zubko (1 scala source)
+2023.03.18 11:51:50 INFO  time: compiled lab_4_zubko in 1.82s
